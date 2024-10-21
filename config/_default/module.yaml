@@ -5,12 +5,12 @@
 ############################
 
 imports:
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+  - path: https://sarahduan2023.github.io/JinFan-Duan.io/
+  - path: github.io/JinFan-Duan.io/
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
-  - source: hugo-blox/blox/community
+  - source: JinFan-blox/blox/community
     target: layouts/partials/blox/community/
     includeFiles: '**.html'
   - source: hugo-blox/blox/all-access
