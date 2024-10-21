@@ -25,7 +25,7 @@ sections:
         - text:  My X
           icon: academicons/X
           url: https://x.com/sarahs22915?s=21
-        - text: Watch my new YouTube video to achieve 20x productivity
+        - text: Come to Discord to play with me
           icon: brands/discord
           url: https://discord.gg/QtgRG9dq
         - text: Contact me by email
