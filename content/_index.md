@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-10-21
 type: landing
 
 design:
@@ -22,13 +22,13 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
-          icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
+        - text:  My X
+          icon: academicons/X
+          url: https://x.com/sarahs22915?s=21
         - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
-        - text: Connect with me on LinkedIn
-          icon: brands/linkedin
-          url: https://linkedin.com
+          icon: brands/discord
+          url: https://discord.gg/QtgRG9dq
+        - text: Contact me by email
+          icon: brands/email
+          url: Sarahduan2007@proton.me
 ---
