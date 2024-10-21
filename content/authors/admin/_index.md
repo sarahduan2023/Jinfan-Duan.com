@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: JinFan Duan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Sarah Duan
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: JinFan
+last_name: Duan
 
 # Status emoji
 status:
@@ -17,35 +17,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Canadian high school students
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Harvard University summer schoo;
+    url: https://summer.harvard.edu/
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:sarahduan2007@proton.me'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
-  - icon: brands/orcid
-    url: https://www.orcid.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+    url: https://x.com/sarahs22915?s=21
+  - icon: brands/discord
+    url: https://discord.gg/QtgRG9dq
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am from Toronto Canada.
+I have recently been spending most of my time doing mathematics and computer science.
+I Since my family died of cancer in 2019, I lost a loved one and was inspired by medicine to start AI healthcare. I have started a large model of AI medicine and raised people's awareness through technology and communication. I am helping to develop.
+Also, I am looking for a co-founder.
+If you are interested please contact me！
